@@ -6,7 +6,7 @@ import asyncio
 from pyrogram import filters
 from pyrogram.enums import ChatMemberStatus
 from SONALI import app
-from SONALI.utils.RAUSHAN_ban import admin_filter
+from SONALI.utils.Sonali_ban import admin_filter
 from SONALI.utils.database import get_assistant
 
 links = {}
